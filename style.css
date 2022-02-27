@@ -13,3 +13,8 @@ body{
     font-family: non-serif;
     background-color: #ddd;
 }
+
+h1{
+    font-size: 36px;
+    color: aqua;
+}
